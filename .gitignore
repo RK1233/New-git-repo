@@ -1,0 +1,10 @@
+#Mac Os
+.DS_store
+
+#Windows-os
+Thumbs.db
+
+#JARFiles
+*.jar
+
+[xyz]*.txt
